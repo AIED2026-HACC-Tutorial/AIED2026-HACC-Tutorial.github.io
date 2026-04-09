@@ -1,4 +1,4 @@
-# AIED 2026 Tutorial: From Assessment to Human–AI Co-Creation in Language Learning: Adaptive, Inclusive, and Game-Based Design in the Generative AI Era
+# AIED 2026 Workshop: From Assessment to Human–AI Co-Creation in Language Learning: Adaptive, Inclusive, and Game-Based Design in the Generative AI Era
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
