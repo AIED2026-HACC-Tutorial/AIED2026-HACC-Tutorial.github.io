@@ -1,4 +1,4 @@
-# AIED 2025 Tutorial: NLP and Generative AI for Language Learning and Assessment
+# AIED 2026 Tutorial: From Assessment to Human–AI Co-Creation in Language Learning: Adaptive, Inclusive, and Game-Based Design in the Generative AI Era
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
